@@ -15,3 +15,5 @@ Python                   3.7.9
 Cuda                     V11.1.105
 -------------------------------------
 
+Please download the dataset yourself: banana
+http://d2l-data.s3-accelerate.amazonaws.com/banana-detection.zip
